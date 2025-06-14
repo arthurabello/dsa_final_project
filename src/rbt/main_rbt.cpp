@@ -5,7 +5,6 @@
 #include "rbt.cpp"
 #include "rbt.h"
 
-using namespace TREE::RBT; // is this right?
 
 int main(int argc, char *argv[]){
 
